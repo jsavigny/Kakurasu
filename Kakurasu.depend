@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1422237091 source:c:\users\julio\documents\college thing\oop\kakurasu\kakurasu.cpp
+	"kakurasu.h"
+	<stdbool.h>
+	<iostream>
+	<string>
+	<fstream>
+
+1422236037 c:\users\julio\documents\college thing\oop\kakurasu\kakurasu.h
+	<stdbool.h>
+
+1422164381 source:c:\users\julio\documents\college thing\oop\kakurasu\mesinkarakter.cpp
+
+1422164398 source:c:\users\julio\documents\college thing\oop\kakurasu\mesinkata.cpp
+
+1422236947 source:c:\users\julio\documents\college thing\oop\kakurasu\mkakurasu.cpp
+	"kakurasu.h"
+	<iostream>
+	<stdbool.h>
+	<string>
+	<fstream>
+
+1422237091 source:c:\users\julio\documents\kakurasu\kakurasu.cpp
+	"kakurasu.h"
+	<stdbool.h>
+	<iostream>
+	<string>
+	<fstream>
+
+1422236037 c:\users\julio\documents\kakurasu\kakurasu.h
+	<stdbool.h>
+
+1422164381 source:c:\users\julio\documents\kakurasu\mesinkarakter.cpp
+
+1422164398 source:c:\users\julio\documents\kakurasu\mesinkata.cpp
+
+1422271069 source:c:\users\julio\documents\kakurasu\mkakurasu.cpp
+	"kakurasu.h"
+	<iostream>
+	<stdbool.h>
+	<string>
+	<fstream>
+
